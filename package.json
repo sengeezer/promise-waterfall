@@ -24,6 +24,7 @@
   "author": "dotslash.lu",
   "license": "MIT",
   "dependencies": {
-    "promise": "~6.0.1"
+    "promise": "~6.0.1",
+    "when": "^3.7.7"
   }
 }
